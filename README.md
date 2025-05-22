@@ -132,6 +132,7 @@ python evaluation.py
 
 - The Data/ folder is in the same directory as the script
   
+---
 
 ### 📂 Data Folder Structure
 The Data/ folder includes:
@@ -159,7 +160,7 @@ The hybrid model achieved a 26% absolute improvement in retrieval precision over
 
 ---
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 - Python (NLTK, Pandas, Scikit-learn)
 
 - HuggingFace Transformers (MiniLM)
