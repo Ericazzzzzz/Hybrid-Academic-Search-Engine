@@ -130,12 +130,7 @@ python evaluation.py
 
 - You do not use absolute paths (e.g., /content/filename.csv)
 
-- The Data/ folder is in the same directory as the script
-  
----
-
-### 📂 Data Folder Structure
-The Data/ folder includes:
+- The `Data/` folder is in the same directory as the script. The `Data/` folder includes:
 
 | File                        | Description                                   |
 |----------------------------|-----------------------------------------------|
